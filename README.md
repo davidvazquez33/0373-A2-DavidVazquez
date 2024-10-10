@@ -1,4 +1,3 @@
-# ASIX1-0373-A2 - Puesta En Práctica (Documentación con Markdown)
 
 ## Evaluación inicial
 
@@ -34,6 +33,17 @@
 </body>
 </html>
 ```
+#### *Figura 1: Estructura de código HTML*
+
+### 5. ¿Qué es CSS?
+**Un lenguaje de marcas que usamos para añadir estilos a HTML.**
+
+### 6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web:
+**Le pones la web, consulta en el ordanador si tiene vinculada la web con la IP correspondiente, si no está, la busca en el servidor y una vez encuentra la IP accede a ella.**
+
+![Esquema](https://github.com/davidvazquez33/0373-A2-DavidVazquez/blob/main/captura.png "Esquema")
+
+#### *Figura 2: Esquema de peticiones HTML*
 
 
 
@@ -59,19 +69,3 @@
 
 
 
-
-Es un sitio de la web donde podemos acceder ya sea para ver información, realizar acciones...
-
-Un lugar donde alojar la página web para poderla publicar
-
-Lenguajes para formatear texto, se usan para hacer la parte visual de las páginas web, ejemplo: HTML
-
-HTML
-CSS 
-MARKDOWN
-
-Un lenguaje de marcas, se algunas cosas, insertar contenido, enlacarlo con el css…
-
-Un lenguaje de marcas que usamos para añadir estilos a HTML.
-
-Le pones la web, consulta en el ordanador si tiene vinculada la web con la IP correspondiente, si no está, la busca en el servidor y una vez encuentra la IP accede a ella.
