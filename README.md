@@ -17,8 +17,23 @@
 |       HTML     |  [Documentación de HTML](https://lenguajehtml.com)|
 |       Markdown     |  [Documentación de Markdown](https://markdown.es)|
 
+### 4. ¿Qué es HTML? ¿Sabes cómo se estructura?
+**Un lenguaje de marcas, se algunas cosas, insertar contenido, enlacarlo con el css…**
 
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 
+</body>
+</html>
+```
 
 
 
